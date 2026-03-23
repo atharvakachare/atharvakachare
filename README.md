@@ -1,4 +1,5 @@
 👨‍💻 Atharva Kachare
+
 🚀 Data Analyst | Business Intelligence | AI/ML Engineer
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+Scalable+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL;Future+Data+Scientist" /> </p>
 🧠 About Me
@@ -24,19 +25,20 @@ Not just models → Scalable Solutions
 ✔ I focus on performance, scalability, and usability
 
 🏆 Experience
-🏢 Software Consultant Intern — Intern Lead
+🏢 Software Consultant Intern
 
 Xdigics Technologies Pvt. Ltd.
 
-+ Led analytics solutions for real-world client applications
-+ Optimized SQL pipelines → faster data retrieval
-+ Built stakeholder dashboards & reporting systems
-+ Identified performance bottlenecks using data insights
++ Developed Front-End using React Framework.
++ Led the production team.
++ Identified performance bottlenecks using data insights.
 
 📊 Impact
 
-🚀 Delivered 3+ production-level solutions
+🚀 Delivered 2 production-level solutions
 ⚡ Improved reporting efficiency & reduced latency
+
+
 🚀 Featured Projects
 🏦 Banking Data Analytics Dashboard
 Power BI | Python | SQL | Excel
