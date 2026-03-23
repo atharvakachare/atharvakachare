@@ -1,47 +1,99 @@
-# Hi 👋 I'm Atharva
+👨‍💻 Atharva Kachare
+🚀 Data Analyst | Business Intelligence | AI/ML Engineer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+Scalable+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL;Future+Data+Scientist" /> </p>
+🧠 About Me
++ I don’t just analyze data — I create systems that drive decisions.
 
-💻 MERN Stack Learner  
-🚀 Passionate about building modern web experiences 
+🎓 Final-year Computer Science student specializing in Data Analytics & Business Intelligence
+💼 Software Consultant Intern (Intern Lead)
+📍 Pune, India
 
+I focus on:
 
----
+📊 Data → Insights → Business Impact
+⚡ Real-time data systems
+📈 KPI-driven dashboards
+🤖 AI-powered analytics
+⚡ What Makes Me Different
+Not just dashboards → Decision Systems
+Not just analysis → Business Impact
+Not just models → Scalable Solutions
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+✔ I combine analytics + engineering + business thinking
+✔ I build end-to-end solutions (not just reports)
+✔ I focus on performance, scalability, and usability
 
----
+🏆 Experience
+🏢 Software Consultant Intern — Intern Lead
 
-## 🌱 Currently Learning
-- Advanced React
-- Backend development
-- Full Stack Projects
+Xdigics Technologies Pvt. Ltd.
 
----
++ Led analytics solutions for real-world client applications
++ Optimized SQL pipelines → faster data retrieval
++ Built stakeholder dashboards & reporting systems
++ Identified performance bottlenecks using data insights
+
+📊 Impact
+
+🚀 Delivered 3+ production-level solutions
+⚡ Improved reporting efficiency & reduced latency
 🚀 Featured Projects
-👁 AI-Based Diabetic Retinopathy Detection
+🏦 Banking Data Analytics Dashboard
+Power BI | Python | SQL | Excel
 
-Designed and implemented a deep learning-based medical image classification system to detect diabetic retinopathy from retinal fundus images. Applied convolutional neural networks (CNNs) with preprocessing and data augmentation techniques to improve model accuracy.
+🔹 3000+ records analyzed
+🔹 8+ interactive dashboards
+🔹 5+ data sources integrated
+🔹 30% faster data processing
 
-Tech: Python, TensorFlow/PyTorch, OpenCV, NumPy, Matplotlib
-🔗 [View Project](https://github.com/atharvakachare/Retinology_AI)
+💡 Result:
 
-🤖 Machine Learning Anomaly Detection System
+Transformed raw financial data into real-time business insights
 
-Built an anomaly detection pipeline to identify abnormal patterns in structured datasets using statistical and machine learning techniques such as Isolation Forest and One-Class SVM.
+🤖 Real-Time AI Anomaly Detection System
+Python | PyTorch | MQTT | Docker
 
-Tech: Python, Scikit-learn, Pandas, Seaborn
-🔗 [View Project](https://github.com/pratham2402/anomaly-detection-at-edge)
----
+🔹 Real-time ML pipeline
+🔹 Sub-100ms latency
+🔹 35% reduction in false positives
 
-## 📫 Connect With Me
-- LinkedIn: 
-- Email: 
+💡 Result:
 
----
+Enabled predictive maintenance & operational efficiency
 
-⭐ Check out my repositories below!
+🛠️ Tech Arsenal
+💻 Languages
+
+Python SQL JavaScript HTML/CSS
+
+📊 Data & BI
+
+Power BI Tableau Excel EDA Data Modelling
+
+⚙️ Tools
+
+Jupyter Scikit-learn Git Docker
+
+🤖 Technologies
+
+Machine Learning REST APIs React
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atharvakachare&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakachare&theme=tokyonight" height="160"/> </p>
+📜 Certifications
+
+🏅 Microsoft Power BI Data Analyst Associate
+📊 Google Data Analytics Professional Certificate
+🤖 Pearson IT Specialist – AI
+
+🌐 Let’s Connect
+<p align="center"> <a href="https://linkedin.com/in/atharvakachare"><img src="https://img.shields.io/badge/LinkedIn-Atharva-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:atharvakachare@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/atharvakachare"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a> </p>
+🎯 Current Focus
++ Advanced Data Engineering
++ Real-Time Analytics Systems
++ AI in Business Intelligence
+⚡ Signature Line
++ "Data is powerful. But the real power lies in how you use it."
+⭐ If You Like My Work
+
+Give a ⭐ to my repositories — it means a lot!
